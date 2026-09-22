@@ -1,0 +1,1 @@
+{"name":"solar-bungalow-study","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"vite --host 0.0.0.0 --port 4173 --strictPort","build":"vite build"},"dependencies":{"three":"0.180.0","vite":"6.1.0"}}
